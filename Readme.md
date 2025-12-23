@@ -98,7 +98,7 @@ Masuk ke workspace ROS 2:
 
 ```bash
 cd ~/ros2_ws/src
-git clone https://github.com/username-kamu/simple_boat.git
+git clone https://github.com/ozza-hengker/simple_boat.git
 ```
 
 Build package:
