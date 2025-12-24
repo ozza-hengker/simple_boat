@@ -19,6 +19,16 @@ Node ini mengirim sinyal **RC Override (PWM)** ke Pixhawk untuk menggerakkan thr
 
 ---
 
+## 🎥 Video Demo
+
+Click the thumbnail below to watch the full animation on YouTube:
+
+[![Watch the Demo on YouTube](https://img.youtube.com/vi/4xR0ds2ZHKQ/0.jpg)](https://youtu.be/4xR0ds2ZHKQ)
+
+**Link:** https://youtu.be/4xR0ds2ZHKQ
+
+---
+
 ## 📋 Fitur Utama
 
 * 🚀 **Full Autonomous Control**
