@@ -119,6 +119,12 @@ colcon build --symlink-install
 source install/setup.bash
 ```
 
+```bash
+cd ~/ros2_ws
+colcon build --packages-select simple_boat --symlink-install
+source install/setup.bash
+```
+
 ---
 
 ## 🎮 Cara Menjalankan (Step-by-Step)
